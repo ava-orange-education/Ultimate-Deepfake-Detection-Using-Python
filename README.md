@@ -1,4 +1,4 @@
-# Deepfake Detection Using Python
+# Ultimate Deepfake Detection Using Python
 This repository contains the code accompanying the book "Ultimate Deepfake Detection with Python".
 There is a .ipynb file each for the chapters 7, 8, and 9.
 You can run this code on your local machine which has Anaconda Python and Jupyter Notebook installed or you can run it on Google Colab. In case you run on Google Colab, please store the datasets in your Google Drive and connect to your Google Drive in your Colab notebook to access the data.
